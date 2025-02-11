@@ -8,7 +8,7 @@
             "name": "Debug Rust",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/target/debug/npmsnoop.exe",
+            "program": "${workspaceFolder}/target/debug/npmsnoop",
             "args": [],
             "cwd": "${workspaceFolder}",
             "sourceLanguages": ["rust"]
