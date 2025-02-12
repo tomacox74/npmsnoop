@@ -1,0 +1,22 @@
+{
+  "name": "npmsnoop",
+  "version": "1.0.0",
+  "description": "for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomacox74/npmsnoop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomacox74/npmsnoop/issues"
+  },
+  "homepage": "https://github.com/tomacox74/npmsnoop#readme",
+  "dependencies": {
+    "localforage": "^1.10.0"
+  }
+}

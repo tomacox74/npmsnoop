@@ -5,3 +5,9 @@ edition = "2021"
 
 [dependencies]
 lldb = "0.0.12"
+oxc_allocator = "0.50.0"
+oxc_ast = "0.50.0"
+oxc_ecmascript = "0.50.0"
+oxc_parser = "0.50.0"
+oxc_span = "0.50.0"
+oxc_syntax = "0.50.0"
